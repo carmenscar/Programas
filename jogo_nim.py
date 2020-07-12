@@ -65,7 +65,7 @@ def jogo():
 	if x == 1:
 		print("\nVocê escolheu uma partida isolada")
 		print(partida())
-		print("Placar: Você 0 X 3 Computador")
+		print("Placar: Você 0 X 1 Computador")
 	elif x == 2:
 		print("\nVocê escolheu um campeonato!")
 		print(campeonato())
