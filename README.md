@@ -1,5 +1,5 @@
 # Python
-Programas
+## Programa jogo_nim
 
 ***Programa desenvolvido no curso Introdução ao Python 1 da  Universidade de São Paulo (USP) - Coursera***
 
